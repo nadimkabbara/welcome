@@ -1,3 +1,4 @@
+# Welcome Shell Script
 d=$(date +%H)
 d1=${d#0}
 n=$(whoami)
