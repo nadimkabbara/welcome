@@ -31,4 +31,5 @@ echo "Terminal: $TERM"
 echo "Shell: $SHELL"
 echo "Working Directory: $(pwd)"
 echo $weather
-# echo "Environment: $(env)"
+echo "Disk: $(df)"
+echo "Disk Usage: $(du ~)"
